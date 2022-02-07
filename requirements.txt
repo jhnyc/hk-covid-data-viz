@@ -1,0 +1,5 @@
+calmap==0.0.9
+pandas==1.3.4
+pywaffle==0.6.4
+seaborn==0.11.2
+matplotlib==3.4.3
